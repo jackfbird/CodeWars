@@ -1,0 +1,17 @@
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\obj\Debug\netcoreapp2.2\GoogleKataTest.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\obj\Debug\netcoreapp2.2\GoogleKataTest.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\obj\Debug\netcoreapp2.2\GoogleKataTest.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\obj\Debug\netcoreapp2.2\GoogleKataTest.AssemblyInfo.cs
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\bin\Debug\netcoreapp2.2\GoogleKataTest.deps.json
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\bin\Debug\netcoreapp2.2\GoogleKataTest.runtimeconfig.json
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\bin\Debug\netcoreapp2.2\GoogleKataTest.runtimeconfig.dev.json
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\bin\Debug\netcoreapp2.2\GoogleKataTest.dll
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\bin\Debug\netcoreapp2.2\GoogleKataTest.pdb
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\bin\Debug\netcoreapp2.2\GoogleKata.dll
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\bin\Debug\netcoreapp2.2\GoogleKata.pdb
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\obj\Debug\netcoreapp2.2\GoogleKataTest.csproj.CopyComplete
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\obj\Debug\netcoreapp2.2\GoogleKataTest.dll
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKataTest\obj\Debug\netcoreapp2.2\GoogleKataTest.pdb

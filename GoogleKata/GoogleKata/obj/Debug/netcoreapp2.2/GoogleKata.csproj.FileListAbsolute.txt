@@ -1,0 +1,9 @@
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKata\obj\Debug\netcoreapp2.2\GoogleKata.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKata\obj\Debug\netcoreapp2.2\GoogleKata.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKata\obj\Debug\netcoreapp2.2\GoogleKata.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKata\obj\Debug\netcoreapp2.2\GoogleKata.AssemblyInfo.cs
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKata\bin\Debug\netcoreapp2.2\GoogleKata.deps.json
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKata\bin\Debug\netcoreapp2.2\GoogleKata.dll
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKata\bin\Debug\netcoreapp2.2\GoogleKata.pdb
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKata\obj\Debug\netcoreapp2.2\GoogleKata.dll
+C:\Users\jackb\Desktop\GoogleKata\GoogleKata\GoogleKata\obj\Debug\netcoreapp2.2\GoogleKata.pdb
