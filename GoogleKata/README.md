@@ -1,3 +1,5 @@
+<h2>Google Interview Kata</h2>
+
 INTRODUCTION:
 
 If I give you a name of a city as a string, I want you to return a string that shows how many times each letter shows up in the string by using an asterisk *
