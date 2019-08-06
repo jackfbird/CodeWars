@@ -1,0 +1,3 @@
+# CodeWars
+
+Fun CodeWars challenges!
