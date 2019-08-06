@@ -1,0 +1,9 @@
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\CompareSquaredArrays\obj\Debug\netcoreapp2.2\CompareSquaredArrays.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\CompareSquaredArrays\obj\Debug\netcoreapp2.2\CompareSquaredArrays.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\CompareSquaredArrays\obj\Debug\netcoreapp2.2\CompareSquaredArrays.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\CompareSquaredArrays\obj\Debug\netcoreapp2.2\CompareSquaredArrays.AssemblyInfo.cs
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\CompareSquaredArrays\bin\Debug\netcoreapp2.2\CompareSquaredArrays.deps.json
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\CompareSquaredArrays\bin\Debug\netcoreapp2.2\CompareSquaredArrays.dll
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\CompareSquaredArrays\bin\Debug\netcoreapp2.2\CompareSquaredArrays.pdb
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\CompareSquaredArrays\obj\Debug\netcoreapp2.2\CompareSquaredArrays.dll
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\CompareSquaredArrays\obj\Debug\netcoreapp2.2\CompareSquaredArrays.pdb

@@ -1,0 +1,17 @@
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\obj\Debug\netcoreapp2.2\SquaredArrayTest.cs.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\obj\Debug\netcoreapp2.2\SquaredArrayTest.cs.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\obj\Debug\netcoreapp2.2\SquaredArrayTest.cs.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\obj\Debug\netcoreapp2.2\SquaredArrayTest.cs.AssemblyInfo.cs
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\bin\Debug\netcoreapp2.2\SquaredArrayTest.cs.deps.json
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\bin\Debug\netcoreapp2.2\SquaredArrayTest.cs.runtimeconfig.json
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\bin\Debug\netcoreapp2.2\SquaredArrayTest.cs.runtimeconfig.dev.json
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\bin\Debug\netcoreapp2.2\SquaredArrayTest.cs.dll
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\bin\Debug\netcoreapp2.2\SquaredArrayTest.cs.pdb
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\bin\Debug\netcoreapp2.2\CompareSquaredArrays.dll
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\bin\Debug\netcoreapp2.2\CompareSquaredArrays.pdb
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\obj\Debug\netcoreapp2.2\SquaredArrayTest.cs.csproj.CopyComplete
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\obj\Debug\netcoreapp2.2\SquaredArrayTest.cs.dll
+C:\Users\jackb\Desktop\CompareSquaredArrays\CompareSquaredArrays\SquaredArrayTest.cs\obj\Debug\netcoreapp2.2\SquaredArrayTest.cs.pdb
