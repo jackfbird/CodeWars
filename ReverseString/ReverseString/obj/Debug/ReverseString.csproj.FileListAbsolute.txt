@@ -1,0 +1,7 @@
+C:\Users\jackb\Desktop\ReverseString\ReverseString\ReverseString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\ReverseString\ReverseString\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\ReverseString\ReverseString\ReverseString\bin\Debug\ReverseString.dll.config
+C:\Users\jackb\Desktop\ReverseString\ReverseString\ReverseString\bin\Debug\ReverseString.dll
+C:\Users\jackb\Desktop\ReverseString\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\jackb\Desktop\ReverseString\ReverseString\ReverseString\obj\Debug\ReverseString.dll
+C:\Users\jackb\Desktop\ReverseString\ReverseString\ReverseString\obj\Debug\ReverseString.pdb
