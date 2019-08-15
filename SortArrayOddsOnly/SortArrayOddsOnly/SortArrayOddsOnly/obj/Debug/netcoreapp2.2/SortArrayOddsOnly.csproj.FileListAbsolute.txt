@@ -1,0 +1,9 @@
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsOnly\bin\Debug\netcoreapp2.2\SortArrayOddsOnly.deps.json
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsOnly\bin\Debug\netcoreapp2.2\SortArrayOddsOnly.dll
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsOnly\bin\Debug\netcoreapp2.2\SortArrayOddsOnly.pdb
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsOnly\obj\Debug\netcoreapp2.2\SortArrayOddsOnly.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsOnly\obj\Debug\netcoreapp2.2\SortArrayOddsOnly.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsOnly\obj\Debug\netcoreapp2.2\SortArrayOddsOnly.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsOnly\obj\Debug\netcoreapp2.2\SortArrayOddsOnly.AssemblyInfo.cs
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsOnly\obj\Debug\netcoreapp2.2\SortArrayOddsOnly.dll
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsOnly\obj\Debug\netcoreapp2.2\SortArrayOddsOnly.pdb

@@ -1,0 +1,17 @@
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\bin\Debug\netcoreapp2.2\SortArrayOddsTest.deps.json
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\bin\Debug\netcoreapp2.2\SortArrayOddsTest.runtimeconfig.json
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\bin\Debug\netcoreapp2.2\SortArrayOddsTest.runtimeconfig.dev.json
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\bin\Debug\netcoreapp2.2\SortArrayOddsTest.dll
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\bin\Debug\netcoreapp2.2\SortArrayOddsTest.pdb
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\bin\Debug\netcoreapp2.2\SortArrayOddsOnly.dll
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\bin\Debug\netcoreapp2.2\SortArrayOddsOnly.pdb
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\obj\Debug\netcoreapp2.2\SortArrayOddsTest.csprojAssemblyReference.cache
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\obj\Debug\netcoreapp2.2\SortArrayOddsTest.csproj.CoreCompileInputs.cache
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\obj\Debug\netcoreapp2.2\SortArrayOddsTest.AssemblyInfoInputs.cache
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\obj\Debug\netcoreapp2.2\SortArrayOddsTest.AssemblyInfo.cs
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\obj\Debug\netcoreapp2.2\SortArrayOddsTest.csproj.CopyComplete
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\obj\Debug\netcoreapp2.2\SortArrayOddsTest.dll
+C:\Users\jackb\Desktop\SortArrayOddsOnly\SortArrayOddsOnly\SortArrayOddsTest\obj\Debug\netcoreapp2.2\SortArrayOddsTest.pdb
