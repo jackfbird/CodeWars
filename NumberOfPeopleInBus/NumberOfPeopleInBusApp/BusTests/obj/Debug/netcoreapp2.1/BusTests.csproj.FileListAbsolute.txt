@@ -1,0 +1,17 @@
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\bin\Debug\netcoreapp2.1\BusTests.deps.json
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\bin\Debug\netcoreapp2.1\BusTests.runtimeconfig.json
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\bin\Debug\netcoreapp2.1\BusTests.runtimeconfig.dev.json
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\bin\Debug\netcoreapp2.1\BusTests.dll
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\bin\Debug\netcoreapp2.1\BusTests.pdb
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\bin\Debug\netcoreapp2.1\NumberOfPeopleInBus.dll
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\bin\Debug\netcoreapp2.1\NumberOfPeopleInBus.pdb
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\obj\Debug\netcoreapp2.1\BusTests.csprojAssemblyReference.cache
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\obj\Debug\netcoreapp2.1\BusTests.csproj.CoreCompileInputs.cache
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\obj\Debug\netcoreapp2.1\BusTests.AssemblyInfoInputs.cache
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\obj\Debug\netcoreapp2.1\BusTests.AssemblyInfo.cs
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\obj\Debug\netcoreapp2.1\BusTests.csproj.CopyComplete
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\obj\Debug\netcoreapp2.1\BusTests.dll
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\BusTests\obj\Debug\netcoreapp2.1\BusTests.pdb

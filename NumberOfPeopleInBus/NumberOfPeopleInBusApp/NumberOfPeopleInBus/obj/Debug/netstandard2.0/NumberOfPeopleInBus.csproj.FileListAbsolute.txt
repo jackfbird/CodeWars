@@ -1,0 +1,9 @@
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\NumberOfPeopleInBus\bin\Debug\netstandard2.0\NumberOfPeopleInBus.deps.json
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\NumberOfPeopleInBus\bin\Debug\netstandard2.0\NumberOfPeopleInBus.dll
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\NumberOfPeopleInBus\bin\Debug\netstandard2.0\NumberOfPeopleInBus.pdb
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\NumberOfPeopleInBus\obj\Debug\netstandard2.0\NumberOfPeopleInBus.csprojAssemblyReference.cache
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\NumberOfPeopleInBus\obj\Debug\netstandard2.0\NumberOfPeopleInBus.csproj.CoreCompileInputs.cache
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\NumberOfPeopleInBus\obj\Debug\netstandard2.0\NumberOfPeopleInBus.AssemblyInfoInputs.cache
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\NumberOfPeopleInBus\obj\Debug\netstandard2.0\NumberOfPeopleInBus.AssemblyInfo.cs
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\NumberOfPeopleInBus\obj\Debug\netstandard2.0\NumberOfPeopleInBus.dll
+C:\Users\JAXALOPE\Desktop\NumberOfPeopleInBus\NumberOfPeopleInBusApp\NumberOfPeopleInBus\obj\Debug\netstandard2.0\NumberOfPeopleInBus.pdb
