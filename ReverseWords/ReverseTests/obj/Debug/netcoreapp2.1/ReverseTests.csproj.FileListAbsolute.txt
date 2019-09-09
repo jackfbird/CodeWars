@@ -1,0 +1,17 @@
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\bin\Debug\netcoreapp2.1\ReverseTests.deps.json
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\bin\Debug\netcoreapp2.1\ReverseTests.runtimeconfig.json
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\bin\Debug\netcoreapp2.1\ReverseTests.runtimeconfig.dev.json
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\bin\Debug\netcoreapp2.1\ReverseTests.dll
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\bin\Debug\netcoreapp2.1\ReverseTests.pdb
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\bin\Debug\netcoreapp2.1\ReverseWords.dll
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\bin\Debug\netcoreapp2.1\ReverseWords.pdb
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\obj\Debug\netcoreapp2.1\ReverseTests.csprojAssemblyReference.cache
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\obj\Debug\netcoreapp2.1\ReverseTests.csproj.CoreCompileInputs.cache
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\obj\Debug\netcoreapp2.1\ReverseTests.AssemblyInfoInputs.cache
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\obj\Debug\netcoreapp2.1\ReverseTests.AssemblyInfo.cs
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\obj\Debug\netcoreapp2.1\ReverseTests.csproj.CopyComplete
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\obj\Debug\netcoreapp2.1\ReverseTests.dll
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseTests\obj\Debug\netcoreapp2.1\ReverseTests.pdb

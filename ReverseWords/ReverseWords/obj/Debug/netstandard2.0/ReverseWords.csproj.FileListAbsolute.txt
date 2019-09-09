@@ -1,0 +1,9 @@
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseWords\bin\Debug\netstandard2.0\ReverseWords.deps.json
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseWords\bin\Debug\netstandard2.0\ReverseWords.dll
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseWords\bin\Debug\netstandard2.0\ReverseWords.pdb
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseWords\obj\Debug\netstandard2.0\ReverseWords.csprojAssemblyReference.cache
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseWords\obj\Debug\netstandard2.0\ReverseWords.csproj.CoreCompileInputs.cache
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseWords\obj\Debug\netstandard2.0\ReverseWords.AssemblyInfoInputs.cache
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseWords\obj\Debug\netstandard2.0\ReverseWords.AssemblyInfo.cs
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseWords\obj\Debug\netstandard2.0\ReverseWords.dll
+C:\Users\JAXALOPE\Desktop\ReverseWords\ReverseWords\obj\Debug\netstandard2.0\ReverseWords.pdb
