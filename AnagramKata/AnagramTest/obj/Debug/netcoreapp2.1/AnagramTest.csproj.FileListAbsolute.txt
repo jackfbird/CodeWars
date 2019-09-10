@@ -1,0 +1,17 @@
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\bin\Debug\netcoreapp2.1\AnagramTest.deps.json
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\bin\Debug\netcoreapp2.1\AnagramTest.runtimeconfig.json
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\bin\Debug\netcoreapp2.1\AnagramTest.runtimeconfig.dev.json
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\bin\Debug\netcoreapp2.1\AnagramTest.dll
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\bin\Debug\netcoreapp2.1\AnagramTest.pdb
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\bin\Debug\netcoreapp2.1\Anagram.dll
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\bin\Debug\netcoreapp2.1\Anagram.pdb
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\obj\Debug\netcoreapp2.1\AnagramTest.csprojAssemblyReference.cache
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\obj\Debug\netcoreapp2.1\AnagramTest.csproj.CoreCompileInputs.cache
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\obj\Debug\netcoreapp2.1\AnagramTest.AssemblyInfoInputs.cache
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\obj\Debug\netcoreapp2.1\AnagramTest.AssemblyInfo.cs
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\obj\Debug\netcoreapp2.1\AnagramTest.csproj.CopyComplete
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\obj\Debug\netcoreapp2.1\AnagramTest.dll
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\AnagramTest\obj\Debug\netcoreapp2.1\AnagramTest.pdb

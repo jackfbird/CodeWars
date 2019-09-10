@@ -1,0 +1,9 @@
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\Anagram\bin\Debug\netstandard2.0\Anagram.deps.json
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\Anagram\bin\Debug\netstandard2.0\Anagram.dll
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\Anagram\bin\Debug\netstandard2.0\Anagram.pdb
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\Anagram\obj\Debug\netstandard2.0\Anagram.csprojAssemblyReference.cache
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\Anagram\obj\Debug\netstandard2.0\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\Anagram\obj\Debug\netstandard2.0\Anagram.AssemblyInfoInputs.cache
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\Anagram\obj\Debug\netstandard2.0\Anagram.AssemblyInfo.cs
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\Anagram\obj\Debug\netstandard2.0\Anagram.dll
+C:\Users\JAXALOPE\Desktop\CodeWars\AnagramKata\Anagram\obj\Debug\netstandard2.0\Anagram.pdb
